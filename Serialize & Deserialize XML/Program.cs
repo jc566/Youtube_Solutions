@@ -27,7 +27,7 @@ using System.Xml; //used for XMLReader...
     {
         static void Main(string[] args)
         {
-            Employee emp = new Employee();
+            Employee emp = new Employee(); //Create new instance of Employee class
 
         /* ------------------------------------------------------------------------------------------------------------------------------*/
 
