@@ -1,0 +1,72 @@
+Method 1 : Using Input Manager and Translation
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class movementScript : MonoBehaviour {
+
+    public float moveHorizontal; 
+    public float moveVertical;
+    public float speed;
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+
+        moveHorizontal = Input.GetAxis("Horizontal") * speed;
+        moveVertical = Input.GetAxis("Vertical") * speed;
+
+        transform.Translate(moveHorizontal, moveVertical, 0);
+
+	}
+}
+****************************************************************************************************
+Method 2 : Using Input Manager and RigidBody physics to move
+Notes : 
+Link to Update() : https://docs.unity3d.com/ScriptReference/MonoBehaviour.Update.html?_ga=2.39670179.1272539852.1538233727-881089417.1472702416
+Link to FixedUpdate() : https://docs.unity3d.com/ScriptReference/MonoBehaviour.FixedUpdate.html?_ga=2.39670179.1272539852.1538233727-881089417.1472702416
+Unity Forums Explanation of Difference : https://answers.unity.com/questions/10993/whats-the-difference-between-update-and-fixedupdat.html
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class movementScript : MonoBehaviour {
+
+    public float moveHorizontal;
+    public float moveVertical;
+    public float speed;
+
+    public Rigidbody2D player;
+    private Vector2 movement;
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void FixedUpdate () {
+        /*
+         * Great explanation of AddForce vs Velocity 
+         * https://gamedev.stackexchange.com/questions/113178/when-should-i-use-velocity-versus-addforce-when-dealing-with-player-objects
+         * */
+        moveHorizontal = Input.GetAxis("Horizontal") * speed;
+        moveVertical = Input.GetAxis("Vertical") * speed;
+
+        movement = new Vector2(moveHorizontal, moveVertical);
+	 /*
+         * Link to RigidBody.AddForce : https://docs.unity3d.com/ScriptReference/Rigidbody2D.AddForce.html
+         * Link to RigidBody.Velocity : https://docs.unity3d.com/ScriptReference/Rigidbody2D-velocity.html
+         * */
+	//Uncomment and play around with the options below for Add Force for better understanding
+        //player.AddForce(movement * speed); //think Rocket thruster
+	//player.AddForce(movement * speed, ForceMode2D.Force);
+	//player.AddForce(movement * speed, ForceMode2D.Impulse);
+        player.velocity = movement * speed; //think regular movement, similar to the Transform.translate example
+	}
+}
+****************************************************************************************************
