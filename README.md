@@ -18,4 +18,9 @@
 <a href = "https://www.youtube.com/watch?v=-on5HRW8v1A" /> Unity 2D Shooter Game Tutorial - Make your first Unity Game! 
 </li>
 
+<li>
+<a href = "https://www.youtube.com/watch?v=km-04aUJy4o" /> Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement
+</li>
+
+
 </ul>
