@@ -1,5 +1,5 @@
 ﻿param(
-[string]$backupDirectory = "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Powershell Scripts\RetentionRate\testMaxThreshold",
+[string]$backupDirectory = "",
 [int]$RetentionRate = 3 #set retention rate to last 5 by default
 )
 
