@@ -1,1 +1,1 @@
-<a href = "https://youtu.be/bGI-uidHfxA">XML Serialization/Deserialization & 70-483 Exam Prep C# 
+<a href = "https://youtu.be/bGI-uidHfxA">Apply Retention Rate using both Time and/or Max Threshold
