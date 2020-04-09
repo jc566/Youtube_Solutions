@@ -23,6 +23,6 @@
 </li>
 
 <li>
-<a href = "https://youtu.be/bGI-uidHfxA" /> Apply Retention Policies using Powershell
+<a href = "https://youtu.be/bGI-uidHfxA" />Powershell Apply Retention Policies
 </li>
 </ul>
