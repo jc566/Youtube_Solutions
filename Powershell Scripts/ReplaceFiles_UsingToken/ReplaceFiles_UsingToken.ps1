@@ -1,7 +1,7 @@
 ﻿param(
 [string]$targetFiles = "", #target string to look for
 [string]$targetRename = "", #what you want to change $targetFiles to be replaced with
-[string]$directory = "E:\Action Video Capture\New folder"
+[string]$directory = ""
 )
 
 $filesToReplace = (Get-ChildItem -Path $directory -Filter *$targetFiles* -Recurse).FullName
