@@ -1,16 +1,17 @@
 ﻿param(
 [string]$targetFiles = "", #target string to look for
-[string]$directory = ""
+[string]$targetRename = "", #what you want to change $targetFiles to be replaced with
+[string]$directory = "E:\Action Video Capture\New folder"
 )
 
-$filesToReplace = (Get-ChildItem -Path $directory -Filter *.$targetFiles* -Recurse).FullName
+$filesToReplace = (Get-ChildItem -Path $directory -Filter *$targetFiles* -Recurse).FullName
 
 foreach($file in $filesToReplace)
 {
     #create a variable that finds a file with $targetFiles and replaces it with the "original" files name.
 
     write-Host "Beginning file replacement for $file"
-    $originalFile = $file.replace(".$($targetFiles).",'.')
+    $originalFile = $file.replace("$($targetFiles)","$($targetRename)")
 
     write-host "File Name is $originalFile"
     if(test-path $originalFile)
