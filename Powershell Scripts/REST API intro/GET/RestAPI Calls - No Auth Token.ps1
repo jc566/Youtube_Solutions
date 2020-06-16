@@ -1,4 +1,5 @@
-﻿$url_base = "https://cat-fact.herokuapp.com"
+﻿#Make sure to replace the URL values as it makes sense to match your scenario"
+$url_base = "https://cat-fact.herokuapp.com"
 $url_endpoint = "/facts"
 $url = $url_base + $url_endpoint
 
