@@ -25,4 +25,12 @@
 <li>
 <a href = "https://youtu.be/bGI-uidHfxA" />Powershell Apply Retention Policies
 </li>
+
+<li>
+<a href = "https://www.youtube.com/watch?v=tiouHNzAl8Q&t=2s" />Powershell Replace & Rename Files quickly Script
+</li>
+
+<li>
+<a href = "https://www.youtube.com/watch?v=-NVh5cVOeO4&t=1s" />Powershell API Intro GET Method 
+
 </ul>
