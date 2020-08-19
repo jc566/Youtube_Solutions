@@ -247,6 +247,16 @@ namespace Learning_LINQ
                 Console.WriteLine(row["Name"] + " is " + row["Age"] + " years old");
             }
 
+
+            //To Display full table
+            //foreach (DataRow row in dogs.Rows)
+            //{
+            //  string Breed = row["Breed"].ToString();
+            //  string Age = row["Age"].ToString();
+            //  string Name = row["Name"].ToString();
+            //
+            //    Console.WriteLine("Breed : {0} \t Age : {1} \t Name : {2}", Breed, Age, Name);
+            //}
             */
 
             #endregion
