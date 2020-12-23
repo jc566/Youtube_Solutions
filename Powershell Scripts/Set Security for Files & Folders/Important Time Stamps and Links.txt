@@ -1,0 +1,59 @@
+Important Time Stamps :
+
+00:00 - Intro
+00:10 - How to add user to a file or folder manually
+01:03 - Intro Access Control List or Get-ACL
+01:27 - Reminder that link to files are in video description and github
+01:39 - Start scripting for ACL
+02:54 - Filling in variables
+03:12 - Inspecting folder permissions prior to script execution
+03:30 - Brief overview of ACL and parameters required
+04:33 - Additional Variables to create
+05:03 - Creating the argument list variable
+05:26 - Adding the argumentlist parameter to command
+05:33 - running script with ACL and seeing the result of adding a user or security group to a folder or file
+06:02 - Why you might NOT want to use ACL method
+06:45 - Intro with using ICACLS.exe
+07:24 - Getting started with ICACLS
+07:41 - Initial variable values
+08:19 - Detail breakdown of the parameters for ICACLs method
+09:12 - Executing the powershell script with ICACLS method
+10:03 - Running the script with ICACLs method
+10:34 - Outtro
+
+
+Important Links :
+
+ACL Commandlet
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-acl?view=powershell-7.1
+
+File System Rights parameters
+https://docs.microsoft.com/en-us/dotnet/api/system.security.accesscontrol.filesystemrights?view=net-5.0
+
+ICACLS Documentation and breakdown
+#https://ss64.com/nt/icacls.html
+
+Official Microsoft ICACLS.exe documentation
+#https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls
+
+This video covers how to use modify or set the security settings or permissions to a file or folder using ACL as well as ICACLS.
+
+Ignore the next chunk of text as its to get picked up in searches.
+
+Modify file security settings
+Modify folder security setings
+Set file permissions
+Set folder permission
+Change file permission
+Change folder permission
+Give access to folder
+Give access to file
+Set security group for folder
+Set security group for file
+How to change file permissions
+How to change folder permissions
+How to set file and folder permissions windows
+Fix "You don't currently have permission to access this folder"
+How to set permissions Windows Server 2016
+How to set folder permissions
+How to set file permissions
