@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GlobalOffensive/comments/6nh232/useful_gotv_commands_to_improve_major_viewing/
+
+cl_draw_only_deathnotices [0/1] = Toggle HUD on/off but Killfeed is always active.
+
+cl_drawhud [0/1] = Toggle HUD on/off.
+
+
