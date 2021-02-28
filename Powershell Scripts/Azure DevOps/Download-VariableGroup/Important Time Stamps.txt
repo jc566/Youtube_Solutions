@@ -1,0 +1,30 @@
+Important Time Stamps :
+
+00:00 - Intro
+00:10 - Info about my #REST #API and #Powershell intro video
+00:28 - Info about my #github where you can find other scripts related to #powershell and youtube videos in general
+00:56 - Quick #overview of #Variable Groups
+01:27 - Begin scripting
+01:57 - Build #URL #endpoint variable
+02:27 - Goto #Azure #Devops api #documentation and find the proper Rest #method
+03:08 - Where to find your Azure #organization and #project #values
+04:20 - Testing the script so far to see what your url looks like. Also 420 Blaze it.
+05:20 - Where to #generate your #AccessToken aka #PersonalAccessToken aka #PAT
+06:05 - Creating the #header for your #HTTP #request
+06:43 - Creating #token to pass through HTTP Header
+07:08 - Create HTTP Request
+07:55 - Fix typo error about token string
+08:23 - #Executing the #script and viewing its results
+08:49 - #Save the #response variables value into a local #directory as a #json #file.
+10:49 - Like and subscribe!
+
+FYI if you are wondering why the PAT changed towards the end of the video, its because I accidentally deleted the original video during editing and I had to refilm that section. I had already #revoked the PAT so I had create a new one and redo/refilm that portion.
+
+Importan Links :
+
+Github : https://github.com/jc566/Youtube_Solutions/blob/master/Powershell%20Scripts/Azure%20DevOps/Download-VariableGroup/Download_VariableGroup.ps1
+
+Azure Devops API Documentation for Variable Groups : https://docs.microsoft.com/en-us/rest/api/azure/devops/distributedtask/variablegroups/get%20variable%20groups?view=azure-devops-rest-6.0
+
+This video covers how to utilize #Powershell and Azure Devops API to download Variable Groups. Please continue to #build upon this #script by adding #parameters and etc to fit your needs.
+
