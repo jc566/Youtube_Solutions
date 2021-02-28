@@ -1,12 +1,12 @@
 ﻿#Azure Devops params
-$AzureDevops_org = "DevopsTest00001"
-$AzureDevops_project = "CICD"
+$AzureDevops_org = "GK2021"
+$AzureDevops_project = "AzureDevops"
 
 #API Calls
 $url_base = "https://dev.azure.com/"
 $url_endpoint = "$AzureDevops_org/$AzureDevops_project/_apis/build/builds?api-version=6.1-preview.6"
 $url = $url_base + $url_endpoint
-$Personal_Access_Token = "6tomaatne3ek4uhf7mjwwjaeje5mrkte2jv3usvyk2igmvhlnskq"
+$Personal_Access_Token = "rjffdijo2kjjlcz3qp3yrcg2gtlhkymyx5v3sjjgda4pd4rgh4eq"
 $user = ""
 
 $token = [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes(("{0}:{1}" -f $user, $Personal_Access_Token)))
@@ -57,3 +57,4 @@ $output_file = "C:\Users\Joe\Documents\SampleJson.Json"
 
 #Write the entire json object retrieved into a output file
 $response | ConvertTo-Json -Depth 4 | Out-File $output_file
+
