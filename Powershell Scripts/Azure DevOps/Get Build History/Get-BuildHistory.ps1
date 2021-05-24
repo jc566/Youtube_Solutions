@@ -1,12 +1,14 @@
 ﻿#Azure Devops params
-$AzureDevops_org = "GK2021"
-$AzureDevops_project = "AzureDevops"
+$AzureDevops_org = ""
+$AzureDevops_project = ""
 
 #API Calls
 $url_base = "https://dev.azure.com/"
 $url_endpoint = "$AzureDevops_org/$AzureDevops_project/_apis/build/builds?api-version=6.1-preview.6"
+#$url_endpoint = "https://dev.azure.com/GK2021/AzureDevops/_apis/build/builds?api-version=6.1-preview.6"
+
 $url = $url_base + $url_endpoint
-$Personal_Access_Token = "rjffdijo2kjjlcz3qp3yrcg2gtlhkymyx5v3sjjgda4pd4rgh4eq"
+$Personal_Access_Token = ""
 $user = ""
 
 $token = [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes(("{0}:{1}" -f $user, $Personal_Access_Token)))
