@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Microsoft/azure-pipelines-task-lib/master/tasks.schema.json",
+    "id": "0a0fc376-fd0b-49bb-9713-e2d10a1354a0",
+    "name": "buildandreleasetask",
+    "friendlyName": "build and release task",
+    "description": "This is for a YT video",
+    "helpMarkDown": "",
+    "category": "Utility",
+    "author": "code doge",
+    "version": {
+        "Major": 1,
+        "Minor": 0,
+        "Patch": 0
+    },
+    "instanceNameFormat": "Echo $(samplestring)",
+    "inputs": [
+        {
+            "name": "samplestring",
+            "type": "string",
+            "label": "Sample String",
+            "defaultValue": "",
+            "required": true,
+            "helpMarkDown": "A sample string"
+        }
+    ],
+    "execution": {
+        "Node10": {
+            "target": "index.js"
+        }
+    }
+}

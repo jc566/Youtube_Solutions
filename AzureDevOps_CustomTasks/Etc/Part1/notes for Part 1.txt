@@ -1,0 +1,37 @@
+https://docs.microsoft.com/en-us/azure/devops/extend/develop/add-build-task?view=azure-devops#createpublisher
+
+Okay, to get started we can open Command Prompt as an administrator. 
+
+Next, we will create a "home" directory. A home directory is essentially a folder that will contain everything that defines our custom task. 
+
+Later in the video, we will have to package this "home" directory and generate a .vsix file which will be used to upload to Visual Studio Marketplace,
+for the purpose of being used in Azure Devops.
+
+Next we can begin what is called the "task scaffolding" which is basically getting all the dependencies and groundwork required to build custom tasks.
+
+So I decided to zoom in a bit on command prompt to make it easier on your eyes and expand the directory on the right as well to see more details for each file, just in case it helps in following along.
+
+Okay, lets create a new directory called "buildAndReleaseTask" that will house the compononents regarding the custom task.
+
+Inside command prompt window, lets go inside this new buildAndReleaseTask folder and begin installing dependencies. 
+
+Next we will run "npm install vss-web-extension-sdk" inside the root of our project aka the "home" directory. In this case, our Part1 folder. 
+This step will update the package.json to add the dependency for the web extension SDK.
+
+Next, we need to ensure that TypeScript typings are installed for external dependencies. We can do that by running the following 2 commands.
+
+npm install @types/node --save-dev
+npm install @types/q --save-dev
+
+
+Now we want to create a .gitignore file that will ignore the node_modules directory. The main reason for this is because when building a project all dependencies should be restored at compile time. While its technically possible to check in your dependencies, it increases build time because it increases the data size of the repository, which results in a longer time to checkout the repo. Also its just not recommended as you would constantly need to check in new packages and new versions as opposed to restoring from a package.json that will always ensure you have the packages you need with the correct version.
+
+-------------
+
+Next we have the option to specify Typescript version, the default as of May, 2021 is version 2.3.4 if you do not explicitly state which version to use.
+
+npm install typescript@4.0.2 --save-dev
+
+
+
+hmu3jwrelcndkjt7q5g5j3ryjf75zfcmlp67onjezrhs7k3j67wa
