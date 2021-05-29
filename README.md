@@ -38,4 +38,24 @@
   <a href = "https://www.youtube.com/watch?v=ndQbKgJritA&t" />LINQ Tutorial C#
 </li>
 
+<li>
+  <a href= "https://youtu.be/0d6acAH5InE" />Azure DevOps Build Pipelines Classic
+</li>
+
+<li>
+  <a href= "https://youtu.be/2nukM2TzD1Q" />Azure DevOps Branch Policies / GIT
+</li>
+
+<li>
+  <a href= "https://youtu.be/xGI6_nCjKn0" />Powershell Install Modules script
+</li>
+
+<li>
+  <a href="https://youtu.be/k_yd4dc9NzA" />Powershell Download Variable Groups from Azure DevOps
+</li>
+
+<li>
+  <a href= "https://youtu.be/0nk2NDYyQT8" />Powershell Change File/Folder security and permissions
+</li>
+
 </ul>
