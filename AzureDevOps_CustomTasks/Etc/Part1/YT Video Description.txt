@@ -1,4 +1,63 @@
-Link to Youtube video :
+Facebook - 
+Twitter - 
+
+Link to Youtube video(s) :
+
+Part 0 (Installing Dependencies & Pre-requisites) -
+Part 1 (Creating custom task) -
+Part 2 (Adding Unit Tests) -
+Part 3 (Creating complex input and logic) -
+
+Important Time Stamps :
+
+00:00 - 00:52 = Introduction to video overview
+00:52 - 01:15 = Quick overview of Dependencies and Prerequisites
+01:15 - 02:17 = Quick overview of Folder structure
+02:17 - 03:21 = Quick overview of Task Creation steps
+03:21 - 03:55 = Reminder of Folder structure
+03:55 - 04:23 = Explanation of "home" directory
+04:23 - 04:46 = mkdir home directory
+04:46 - 05:07 = Explanation of Task Scaffolding
+05:07 - 05:29 = Create buildandreleasetask folder
+05:29 - 06:57 = begin installing dependencies, npm init command
+06:57 - 07:36 = Install azure pipelines tasks library
+07:36 - 08:14 = install Typescript dependencies
+08:14 - 09:25 = Create gitignore file and why its important
+09:25 - 10:09 = Default typescript version and installing typescript version
+10:09 - 10:37 = Create tsconfig.json file 
+10:37 - 10:56 = Create empty task.json file
+10:56 - 11:47 = Default task.json schema (pause and type out or goto video description to copy/paste or download from link)
+11:47 - 12:23 = Explaining significance of unique guid
+12:23 - 13:09 = replacing the placeholders in task.json file
+13:09 - 13:42 = Create empty index.ts file and default schema (pause and type out or goto video description to copy/paste or download from link)
+13:42 - 14:15 = Compile typescript files to javascript files
+14:15 - 15:51 = Begin testing task.json. Scenario 1 has no input and Scenario 2 has input.
+15:51 - 16:16 = Preface that you can do unit testing for your custom tasks
+16:16 - 16:30 = Quick explanation of Manifest file
+16:30 - 17:56 = Create the "home" directory folder structure in case you havent already done that. Watch video "Part 0" that will cover how to install these dependencies incase you're lost or in need of help. Create the vss-extenion.json aka manifest file.
+17:56 - 18:43 = Adding Extension-icon.png which will be used as the extensions icon in marketplace
+18:43 - 19:30 = Begin editing the vss-extension.json file
+19:30 - 20:02 = Explanation of needing unique publisher ID
+20:02 - 20:53 = How to create a brand new unique publisher ID
+20:53 - 21:47 = Review and update the vss-extension.json with proper values
+21:47 - 22:10 = Preface about tfc-cli component required to be installed
+22:10 - 23:19 = Running commands to package your extension
+23:19 - 23:51 = Preface that there are 2 ways to upload your extension, manual and command line
+23:51 - 24:58 = (Method 1) Manually upload your extension to Microsoft Marketplace
+24:58 - 25:29 = Manually remove your extension
+25:29 - 26:10 = (Method 2 prep) Where to get your Azure DevOps Organization name/value
+26:10 - 27:21 = (Method 2 prep) Creating a Personal Access Token (PAT)
+27:21 - 29:36 = (Method 2) Upload your extension using command line 
+29:36 - 30:25 = How to share your private extension with an Azure DevOps organization
+30:25 - 30:53 = How to install extension into your Azure DevOps
+30:53 - 32:02 = Adding extension to a sample build and testing it out
+32:02 - 32:25 = Preface that we can add a Task icon + update Task/Manifest versions
+32:25 - 33:57 = Updating task to add an icon + updating task/manifest versions
+33:57 - 34:35 = Running commands to package version 2 of the task
+35:35 - 33:54 = Uploading 2nd version of the task + result of trying to upload a older/same version of a task
+33:54 - 36:42 = Confirmation of task update and versions
+36:42 - 37:26 = Whats coming up in the next parts of this video series
+37:26 - end = Outtro. Please like and subscribe! share the video to help the channel grow so I can create more content like this!
 
 Important Links :
 

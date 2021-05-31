@@ -1,0 +1,8 @@
+devops organization name :
+dev.azure.com/DevopsTest00001/
+
+
+
+Personal Access Token :
+
+6bos2j3riktzog6cpk3cb32vsvs4azhyosk7wm6o5gqdinyesy3a
