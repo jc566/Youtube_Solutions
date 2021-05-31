@@ -61,8 +61,11 @@ Important Time Stamps :
 
 Important Links :
 
-
-
+Task.json schema - https://github.com/jc566/Youtube_Solutions/blob/master/AzureDevOps_CustomTasks/Etc/Part1/task-json-schema.json
+Index.ts schema - https://github.com/jc566/Youtube_Solutions/blob/master/AzureDevOps_CustomTasks/Etc/Part1/index-js-schema.ts
+Vss-extension.json schema - https://github.com/jc566/Youtube_Solutions/blob/master/AzureDevOps_CustomTasks/Etc/Part1/vss-extension-json-schema.json
+Create GUID generator - https://www.guidgen.com/
+Visual Studio Marketplace Publishing Portal - https://marketplace.visualstudio.com/manage
 Microsoft Documentation on Extensions - https://docs.microsoft.com/en-us/azure/devops/extend/develop/add-build-task?view=azure-devops#createpublisher
 Microsoft Documentation on Extensions expanded - https://docs.microsoft.com/en-us/azure/devops/extend/develop/integrate-build-task?view=azure-devops
 VSS-Web-Extension SDK - https://github.com/Microsoft/vss-web-extension-sdk
