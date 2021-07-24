@@ -31,7 +31,3 @@ Now we want to create a .gitignore file that will ignore the node_modules direct
 Next we have the option to specify Typescript version, the default as of May, 2021 is version 2.3.4 if you do not explicitly state which version to use.
 
 npm install typescript@4.0.2 --save-dev
-
-
-
-hmu3jwrelcndkjt7q5g5j3ryjf75zfcmlp67onjezrhs7k3j67wa
