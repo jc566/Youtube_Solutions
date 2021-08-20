@@ -1,5 +1,5 @@
 #Azure #Devops #Variables
-Github Link -
+Github Link - https://github.com/jc566/Youtube_Solutions/tree/master/AzureDevops_OutputVariables
 
 Custom build/release Extension/Tasks Links :
 Part 0 : Installing dependencies - https://youtu.be/ZcEeIUxHMy8
