@@ -1,0 +1,36 @@
+#Azure #Devops #Variables
+Github Link -
+
+Custom build/release Extension/Tasks Links :
+Part 0 : Installing dependencies - https://youtu.be/ZcEeIUxHMy8
+Part 1 : Creating Custom Build & Release extension - https://youtu.be/S2A_4pHzQ54  
+Part 2 : Unit testing with Mocha (This videos is Part 2) - https://youtu.be/X99UAVB5gmg
+Part 3:  Powershell tasks
+
+Intro to Classic build pipelines :
+https://youtu.be/0d6acAH5InE
+
+Important Links : https://github.com/Microsoft/azure-pipelines-agent/blob/master/docs/preview/outputvariable.md
+
+Important Time Stamps :
+00:00 - Intro
+00:10 - Overview of what are Output variables + whats to come inside this video
+01:57 - Notification of time stamps and important video links + github
+02:14 - Compatibility with Build and Release pipelines. Also compatible with Yml and Classic build pipelines
+02:30 - Classic Build pipeline example
+04:26 - Classic Build pipeline result
+06:24 - Compatibility with using inline and file execution scripts
+06:42 - YML build example
+07:47 - Overview of HelloWorld.ps1
+08:41 - YML build result
+09:16 - Compatibility with Release pipeline
+09:52 - Release pipeline example + using Secret and Non secret output variables
+11:16 - Release pipeline result + result of Secret Variable and non secret variable
+11:37 - Info on Custom Extensions video + other content. Like and subscribe!
+
+
+This video will cover how you can create and use Output Variables inside Azure Devops pipelines. Long story short, you are able to use output variables in both build pipelines as well as release pipelines. And for build pipelines, you can use Output Variables with both YML or Classic builds. 
+
+Please ignore the next block as its for Search Engines...
+
+Azure Devops CICD Pipelines Output Variables Pipeline Variable Build Task Release Task Build pipeline Release pipeline Azure Pipeline Azure Pipelines Classic Build Yml Build Yaml Build Xaml build Release Variable Variable Group Variable Groups Library Azure Library Build Variable Build Variables How to use output variables How to pass a pipeline variable How to pass a variable through pipeline How to create a variable How to create pipeline variable How to create Azure variable secret variable plain text variable variable groups secret output variable

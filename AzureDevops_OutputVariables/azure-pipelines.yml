@@ -1,0 +1,37 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: windows-latest
+
+steps:
+- task: PowerShell@2
+  inputs:
+    targetType: 'inline'
+    script: 'Write-Host "##vso[task.setvariable variable=Message]Hello"'
+  displayName: 'Set Message output variable via inline'
+- task: PowerShell@2
+  inputs:
+    targetType: 'inline'
+    script: 'Write-Host $(Message)'
+  displayName: 'Read Message output variable via inline'
+- task: PowerShell@2
+  inputs:
+    filePath: '$(System.DefaultWorkingDirectory)\HelloWorld.ps1'
+    arguments: '-FirstPart $(Message)'
+  displayName: 'Pass variable from inline to script file'
+- task: PowerShell@2
+  inputs:
+    targetType: 'inline'
+    script: 'Write-Host $(NewString)'
+  displayName: 'Read NewString output variable from script file'
+- task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: '$(System.DefaultWorkingDirectory)'
+    artifact: 'outputs'
+    publishLocation: 'pipeline'
