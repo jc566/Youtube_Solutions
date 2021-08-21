@@ -8,6 +8,10 @@
 <li>
   <a href= "https://youtu.be/2nukM2TzD1Q" />Azure DevOps Branch Policies / GIT
 </li>
+  
+<li>
+  <a href= "https://youtu.be/kMkhfuE0UeM" />Azure DevOps Pipeline Output Variables / GIT
+</li>
 
 <li>
   <a href = "https://www.youtube.com/watch?v=ndQbKgJritA&t" />C# LINQ Tutorial 
