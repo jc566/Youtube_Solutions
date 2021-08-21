@@ -10,7 +10,7 @@
 </li>
   
 <li>
-  <a href= "https://youtu.be/kMkhfuE0UeM" />Azure DevOps Pipeline Output Variables / GIT
+  <a href= "https://youtu.be/kMkhfuE0UeM" />Azure DevOps Pipeline Output Variables
 </li>
 
 <li>
