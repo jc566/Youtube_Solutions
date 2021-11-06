@@ -1,0 +1,3 @@
+Azure Storage Account SKU Types: 
+https://docs.microsoft.com/en-us/rest/api/storagerp/srp_sku_types
+
