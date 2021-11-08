@@ -12,6 +12,18 @@
 <li>
   <a href= "https://youtu.be/kMkhfuE0UeM" />Azure DevOps Pipeline Output Variables
 </li>
+  
+<li>
+  <a href= "https://youtu.be/ZcEeIUxHMy8" />Azure DevOps Custom Tasks or Extensions - Pre-Requisites
+</li>
+
+<li>
+  <a href= "https://youtu.be/S2A_4pHzQ54" />Azure DevOps Custom Tasks or Extensions - Creating a new Custom Build or Release Task or Extension
+</li>
+  
+<li>
+  <a href= "https://youtu.be/X99UAVB5gmg" />Azure DevOps Custom Tasks or Extensions - Unit testing with Mocha
+</li>
 
 <li>
   <a href = "https://www.youtube.com/watch?v=ndQbKgJritA&t" />C# LINQ Tutorial 
