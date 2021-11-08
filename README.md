@@ -20,7 +20,7 @@
 
 [![Alternate Text](https://i9.ytimg.com/vi_webp/2CCwy121V6Q/mqdefault.webp?v=5a471171&sqp=CKiOpYwG&rs=AOn4CLAt8EmAZsBY8MHgXhcIwjPosJ_bIQ)](https://youtu.be/2CCwy121V6Q "C# XML Serialization/Deserialization & 70-483 Exam Prep C#")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/bGI-uidHfxA/mqdefault.webp?v=5e8b857a&sqp=CKiOpYwG&rs=AOn4CLAAU-ifpFBArrHfCoxba6a0RthozA)](https://youtu.be/bGI-uidHfxA "Powershell Apply Retention Policies)
+[![Alternate Text](https://i9.ytimg.com/vi_webp/bGI-uidHfxA/mqdefault.webp?v=5e8b857a&sqp=CKiOpYwG&rs=AOn4CLAAU-ifpFBArrHfCoxba6a0RthozA)](https://youtu.be/bGI-uidHfxA "Powershell Apply Retention Policies")
 
 [![Alternate Text](https://i9.ytimg.com/vi/tiouHNzAl8Q/mqdefault.jpg?v=5e8fdf30&sqp=CKiOpYwG&rs=AOn4CLB14VerBeFbLeErj6bhERpeVM0DMQ)](https://youtu.be/tiouHNzAl8Q "Powershell Replace & Rename Files quickly Script")
 
