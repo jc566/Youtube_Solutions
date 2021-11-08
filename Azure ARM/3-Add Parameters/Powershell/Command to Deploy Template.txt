@@ -1,0 +1,3 @@
+New-AzResourceGroupDeployment -name "AddedParameters" -ResourceGroupName "TestRG2021YT" -TemplateFile "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Azure ARM\1-Introduction\Powershell\DeploymentRG.json" -storageName "INSERT YOUR UNIQUE TEMPLATE NAME"
+
+New-AzResourceGroupDeployment -name "AddedParameters" -ResourceGroupName "TestRG2021YT" -TemplateFile "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Azure ARM\1-Introduction\Powershell\DeploymentRG.json" -storageName "TestingParametersSTYT2021"

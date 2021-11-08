@@ -1,0 +1,4 @@
+New-AzResourceGroupDeployment -name "[YOUR UNIQUE DEPLOYMENT NAME]" -ResourceGroupName "[YOUR UNIQUE RESOURCE GROUP NAME]" -TemplateFile "[YOUR UNIQUE PATH TO DEPLOYMENT TEMPLATE FILE]"
+
+
+New-AzResourceGroupDeployment -name "AddedParameters" -ResourceGroupName "TestRG2021YT" -TemplateFile "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Azure ARM\1-Introduction\Powershell\DeploymentRG.json"
