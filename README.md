@@ -43,6 +43,7 @@
 
 [![Alternate Text](https://i.ytimg.com/an_webp/GGabKvaihm0/mqdefault_6s.webp?du=3000&sqp=CP7mqowG&rs=AOn4CLB2RdfXshHftNgkAXxEzARZ7I40og)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
 
-
 [![Alternate Text](https://i.ytimg.com/vi/ai6lRft6nus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJODn4coia8Fibiedke0rpw9oJg)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
+
+[![Alternate Text](https://i.ytimg.com/an_webp/6ax20_bwz1Q/mqdefault_6s.webp?du=3000&sqp=COTaqowG&rs=AOn4CLBt96CdA7rx68sfyav6LzDHivs2-w)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
 
