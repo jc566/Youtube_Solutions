@@ -18,20 +18,20 @@
 
 [![Alternate Text](https://i.ytimg.com/an_webp/UGJ2LIgFRN8/mqdefault_6s.webp?du=3000&sqp=CLLgqowG&rs=AOn4CLCTy9UzfhKp57UWCDfkxDaXi0zTBg)](https://youtu.be/UGJ2LIgFRN8 "C# Extension Methods Explanation & 70-483 Exam prep question ")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/2CCwy121V6Q/mqdefault.webp?v=5a471171&sqp=CKiOpYwG&rs=AOn4CLAt8EmAZsBY8MHgXhcIwjPosJ_bIQ)](https://youtu.be/2CCwy121V6Q "C# XML Serialization/Deserialization & 70-483 Exam Prep C#")
+[![Alternate Text](https://i.ytimg.com/an_webp/2CCwy121V6Q/mqdefault_6s.webp?du=3000&sqp=CIz4qowG&rs=AOn4CLCHIegoX7xjNuFSVZYbukRRsuvqBQ)](https://youtu.be/2CCwy121V6Q "C# XML Serialization/Deserialization & 70-483 Exam Prep C#")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/bGI-uidHfxA/mqdefault.webp?v=5e8b857a&sqp=CKiOpYwG&rs=AOn4CLAAU-ifpFBArrHfCoxba6a0RthozA)](https://youtu.be/bGI-uidHfxA "Powershell Apply Retention Policies")
+[![Alternate Text](https://i.ytimg.com/vi/bGI-uidHfxA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMoPAYJbbCqpM0aCKBtI3y20Bsng)](https://youtu.be/bGI-uidHfxA "Powershell Apply Retention Policies")
 
-[![Alternate Text](https://i9.ytimg.com/vi/tiouHNzAl8Q/mqdefault.jpg?v=5e8fdf30&sqp=CKiOpYwG&rs=AOn4CLB14VerBeFbLeErj6bhERpeVM0DMQ)](https://youtu.be/tiouHNzAl8Q "Powershell Replace & Rename Files quickly Script")
+[![Alternate Text](https://i.ytimg.com/vi/tiouHNzAl8Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1HdyRqAR6Fl5PcaLNzOGJy0PBYQ)](https://youtu.be/tiouHNzAl8Q "Powershell Replace & Rename Files quickly Script")
 
-[![Alternate Text](https://i9.ytimg.com/vi/-NVh5cVOeO4/mqdefault.jpg?v=5ee828f6&sqp=CKiOpYwG&rs=AOn4CLDBzdQ-ow0y47JedfehQZimc8p97w)](https://youtu.be/-NVh5cVOeO4 "Powershell API Intro GET Method ")
+[![Alternate Text](https://i.ytimg.com/vi/-NVh5cVOeO4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYzJweSjfP88jkR_3CG5ysTldpcA)](https://youtu.be/-NVh5cVOeO4 "Powershell API Intro GET Method ")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/xGI6_nCjKn0/mqdefault.webp?v=6020b6c1&sqp=CKSHpYwG&rs=AOn4CLCa9p09XvNBlCxQtqS0jdAx23I44g)](https://youtu.be/xGI6_nCjKn0 "Powershell Install Modules script")
+[![Alternate Text](https://i.ytimg.com/vi/xGI6_nCjKn0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4ve3zKKioLcSXcfk7GfcPdppoZA)](https://youtu.be/xGI6_nCjKn0 "Powershell Install Modules script")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/k_yd4dc9NzA/mqdefault.webp?sqp=CNSQpYwG&rs=AOn4CLAfC4tSY77Anj6t1RMoch3kewifoQ)](https://youtu.be/k_yd4dc9NzA "Powershell Download Variable Groups from Azure DevOps")
+[![Alternate Text](https://i.ytimg.com/an_webp/k_yd4dc9NzA/mqdefault_6s.webp?du=3000&sqp=CIDmqowG&rs=AOn4CLCQGTMM9WGkc4rItXT6jcE6jHReWw)](https://youtu.be/k_yd4dc9NzA "Powershell Download Variable Groups from Azure DevOps")
 
-[![Alternate Text](https://i9.ytimg.com/vi/0nk2NDYyQT8/mqdefault.jpg?v=5fe4e99c&sqp=CNSQpYwG&rs=AOn4CLBMxzF1iPC9X3Lz0CskpvHQBBTDFQ)](https://youtu.be/0nk2NDYyQT8 "Powershell Change File/Folder security and permissions")
+[![Alternate Text](https://i.ytimg.com/vi/0nk2NDYyQT8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFakMwVFAPnG5_STc7Fgr8z1F-wA)](https://youtu.be/0nk2NDYyQT8 "Powershell Change File/Folder security and permissions")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/-on5HRW8v1A/mqdefault.webp?v=5a65264d&sqp=CNSQpYwG&rs=AOn4CLDTpqc1qkD0C8w8tCZb5OMFEk7urg)](https://youtu.be/-on5HRW8v1A "Unity 2D Shooter Game Tutorial - Make your first Unity Game! ")
+[![Alternate Text](https://i.ytimg.com/an_webp/-on5HRW8v1A/mqdefault_6s.webp?du=3000&sqp=CIDUqowG&rs=AOn4CLA2B2A9XyoL0Pyp_brUq8Pv-_w2Rg)](https://youtu.be/-on5HRW8v1A "Unity 2D Shooter Game Tutorial - Make your first Unity Game! ")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/km-04aUJy4o/mqdefault.webp?v=5bafc2aa&sqp=CNSQpYwG&rs=AOn4CLCZfzGIlxuPeuHUoNZicjZUNndj_g)](https://youtu.be/km-04aUJy4o "Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement")
+[![Alternate Text](https://i.ytimg.com/vi/km-04aUJy4o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2LmdujYs1czZ72Rj9oOgxWI9aFA)](https://youtu.be/km-04aUJy4o "Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement")
