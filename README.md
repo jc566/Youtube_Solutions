@@ -2,9 +2,9 @@
 
 [![Alternate Text](https://i.ytimg.com/vi/kMkhfuE0UeM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeRrmukLD_pmdnDqizKFZAjllaRA)](https://youtu.be/kMkhfuE0UeM "Azure Devops Pipeline Output Variables")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/0d6acAH5InE/mqdefault.webp?v=601ab18c&sqp=CPyLpYwG&rs=AOn4CLDP1X3qLOQr6LUCwLWy3MbDDYg9_w)](https://youtu.be/0d6acAH5InE "Azure DevOps Build Pipelines Classic")
+[![Alternate Text](https://i.ytimg.com/vi/0d6acAH5InE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqLeAYfTVcXaaRVX5EkwFN-LjsFw)](https://youtu.be/0d6acAH5InE "Azure DevOps Build Pipelines Classic")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/2nukM2TzD1Q/mqdefault.webp?v=5f7b23b1&sqp=CKSHpYwG&rs=AOn4CLD90ZwoJDMLjlCV-9gFz4Lhql-LVw)](https://youtu.be/2nukM2TzD1Q "Azure DevOps Branch Policies / GIT")
+[![Alternate Text](https://i.ytimg.com/vi/2nukM2TzD1Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi80can4oeemRegjwuOBIj7IEcsg)](https://youtu.be/2nukM2TzD1Q "Azure DevOps Branch Policies / GIT")
 
 [![Alternate Text](https://i.ytimg.com/vi/ZcEeIUxHMy8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUBrkUDHRjG7TySMMtfgUiZODLPQ)](https://youtu.be/ZcEeIUxHMy8 "Azure DevOps Custom Tasks or Extensions - Pre-Requisites")
 
@@ -12,12 +12,11 @@
 
 [![Alternate Text](https://i.ytimg.com/vi/X99UAVB5gmg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEXuWeoGGb1-XYywKfMISKVP-BDQ)](https://youtu.be/X99UAVB5gmg "Azure DevOps Custom Tasks or Extensions - Unit testing with Mocha")
 
-[![Alternate Text](https://i9.ytimg.com/vi/ndQbKgJritA/mqdefault.jpg?v=5f4674e2&sqp=CKiOpYwG&rs=AOn4CLDCnCFoxBGYRuvx5s4xKXC0Qn05Iw)](https://www.youtube.com/watch?v=ndQbKgJritA&t "C# LINQ Tutorial ")
+[![Alternate Text](https://i.ytimg.com/an_webp/ndQbKgJritA/mqdefault_6s.webp?du=3000&sqp=COD6qowG&rs=AOn4CLCKvwKTAm_XBzv6_SMbqXck3cqmSg)](https://www.youtube.com/watch?v=ndQbKgJritA&t "C# LINQ Tutorial ")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/RwV0SXtsW5A/mqdefault.webp?v=5a223d8c&sqp=CKiOpYwG&rs=AOn4CLA4S7frD1XKWQRBX7sut_WrdiEnlQ)](https://www.youtube.com/watch?v=RwV0SXtsW5A "C# Create XML File/Document explanation/tutorial Youtube video  ")
+[![Alternate Text](https://i.ytimg.com/vi/RwV0SXtsW5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7SjE3iK3o5XbrLI-_3BBhyeTi3w)](https://www.youtube.com/watch?v=RwV0SXtsW5A "C# Create XML File/Document explanation/tutorial Youtube video  ")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/UGJ2LIgFRN8/mqdefault.webp?v=5a33173a&sqp=CKiOpYwG&rs=AOn4CLDHad0fDACx1VgacJc_TLTtK-M5Pw)](https://youtu.be/UGJ2LIgFRN8 "C# Extension Methods Explanation & 70-483 Exam prep question ")
-
+[![Alternate Text](https://i.ytimg.com/an_webp/UGJ2LIgFRN8/mqdefault_6s.webp?du=3000&sqp=CLLgqowG&rs=AOn4CLCTy9UzfhKp57UWCDfkxDaXi0zTBg)](https://youtu.be/UGJ2LIgFRN8 "C# Extension Methods Explanation & 70-483 Exam prep question ")
 
 [![Alternate Text](https://i9.ytimg.com/vi_webp/2CCwy121V6Q/mqdefault.webp?v=5a471171&sqp=CKiOpYwG&rs=AOn4CLAt8EmAZsBY8MHgXhcIwjPosJ_bIQ)](https://youtu.be/2CCwy121V6Q "C# XML Serialization/Deserialization & 70-483 Exam Prep C#")
 
