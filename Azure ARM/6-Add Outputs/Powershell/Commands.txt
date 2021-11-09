@@ -1,0 +1,6 @@
+New-AzResourceGroupDeployment -name "[YOUR UNIQUE DEPLOYMENT NAME]" -ResourceGroupName "[YOUR RESOURCE GROUP]" -TemplateFile "[YOUR TEMPLATE FILE PATH]" -storagePrefix "[INSERT YOUR UNIQUE STORAGE PREFIX]" 
+
+
+New-AzResourceGroupDeployment -name "AddedVariables" -ResourceGroupName "TestRG2021YT" -TemplateFile "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Azure ARM\1-Introduction\Powershell\DeploymentRG.json" -storagePrefix "codedoge"
+
+
