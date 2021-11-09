@@ -1,0 +1,2 @@
+New-AzResourceGroupDeployment -name "[YOUR UNIQUE DEPLOYMENT NAME]" -ResourceGroupName "[YOUR RESOURCE GROUP]" -TemplateFile "[YOUR TEMPLATE FILE PATH]" -storageName "[INSERT YOUR UNIQUE TEMPLATE NAME]" 
+
