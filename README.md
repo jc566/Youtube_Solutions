@@ -1,6 +1,6 @@
 # Youtube Solutions Video Links
 
-[![Alternate Text](https://i9.ytimg.com/vi/kMkhfuE0UeM/mqdefault.jpg?v=612041f0&sqp=CNCJpYwG&rs=AOn4CLATkAbK9wJxmK3BSMHhj-TnigJVxA)](https://youtu.be/kMkhfuE0UeM "Azure Devops Pipeline Output Variables")
+[![Alternate Text](https://i.ytimg.com/vi/kMkhfuE0UeM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeRrmukLD_pmdnDqizKFZAjllaRA)](https://youtu.be/kMkhfuE0UeM "Azure Devops Pipeline Output Variables")
 
 [![Alternate Text](https://i9.ytimg.com/vi_webp/0d6acAH5InE/mqdefault.webp?v=601ab18c&sqp=CPyLpYwG&rs=AOn4CLDP1X3qLOQr6LUCwLWy3MbDDYg9_w)](https://youtu.be/0d6acAH5InE "Azure DevOps Build Pipelines Classic")
 
