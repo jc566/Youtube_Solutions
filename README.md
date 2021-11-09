@@ -6,11 +6,11 @@
 
 [![Alternate Text](https://i9.ytimg.com/vi_webp/2nukM2TzD1Q/mqdefault.webp?v=5f7b23b1&sqp=CKSHpYwG&rs=AOn4CLD90ZwoJDMLjlCV-9gFz4Lhql-LVw)](https://youtu.be/2nukM2TzD1Q "Azure DevOps Branch Policies / GIT")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/ZcEeIUxHMy8/mqdefault.webp?v=60fb99fe&sqp=CKSHpYwG&rs=AOn4CLCg2LX_kuEiq8LKisRJ0h9yluljkg)](https://youtu.be/ZcEeIUxHMy8 "Azure DevOps Custom Tasks or Extensions - Pre-Requisites")
+[![Alternate Text](https://i.ytimg.com/vi/ZcEeIUxHMy8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUBrkUDHRjG7TySMMtfgUiZODLPQ)](https://youtu.be/ZcEeIUxHMy8 "Azure DevOps Custom Tasks or Extensions - Pre-Requisites")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/S2A_4pHzQ54/mqdefault.webp?v=60fb9c67&sqp=CKSHpYwG&rs=AOn4CLBtHnIOGT4iXqZjvGA9jALL0cXQ7Q)](https://youtu.be/S2A_4pHzQ54 "Azure DevOps Custom Tasks or Extensions - Creating a new Custom Build or Release Task or Extension")
+[![Alternate Text](https://i.ytimg.com/vi/S2A_4pHzQ54/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9wb6ta3r3mUUifF4YyMcKcZ_K0w)](https://youtu.be/S2A_4pHzQ54 "Azure DevOps Custom Tasks or Extensions - Creating a new Custom Build or Release Task or Extension")
 
-[![Alternate Text](https://i9.ytimg.com/vi/X99UAVB5gmg/mqdefault.jpg?v=60fdee5a&sqp=CKSHpYwG&rs=AOn4CLCQpjlg6nMuB57P51BYfx4e2G9-fg)](https://youtu.be/X99UAVB5gmg "Azure DevOps Custom Tasks or Extensions - Unit testing with Mocha")
+[![Alternate Text](https://i.ytimg.com/vi/X99UAVB5gmg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEXuWeoGGb1-XYywKfMISKVP-BDQ)](https://youtu.be/X99UAVB5gmg "Azure DevOps Custom Tasks or Extensions - Unit testing with Mocha")
 
 [![Alternate Text](https://i9.ytimg.com/vi/ndQbKgJritA/mqdefault.jpg?v=5f4674e2&sqp=CKiOpYwG&rs=AOn4CLDCnCFoxBGYRuvx5s4xKXC0Qn05Iw)](https://www.youtube.com/watch?v=ndQbKgJritA&t "C# LINQ Tutorial ")
 
