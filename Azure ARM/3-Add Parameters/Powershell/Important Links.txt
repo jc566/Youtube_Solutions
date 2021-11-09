@@ -1,0 +1,3 @@
+SKU types to choose from :
+https://docs.microsoft.com/en-us/rest/api/storagerp/srp_sku_types
+
