@@ -12,7 +12,7 @@
 
 [![Alternate Text](https://i.ytimg.com/vi/X99UAVB5gmg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEXuWeoGGb1-XYywKfMISKVP-BDQ)](https://youtu.be/X99UAVB5gmg "Azure DevOps Custom Tasks or Extensions - Unit testing with Mocha")
 
-[![Alternate Text](https://i.ytimg.com/an_webp/ndQbKgJritA/mqdefault_6s.webp?du=3000&sqp=COD6qowG&rs=AOn4CLCKvwKTAm_XBzv6_SMbqXck3cqmSg)](https://www.youtube.com/watch?v=ndQbKgJritA&t "C# LINQ Tutorial ")
+[![Alternate Text](https://i9.ytimg.com/vi/ndQbKgJritA/mqdefault.jpg?v=5f4674e2&sqp=CKifsIwG&rs=AOn4CLA57-Apq4u-tPJtNxSb-dK3Mb1-HA)](https://www.youtube.com/watch?v=ndQbKgJritA&t "C# LINQ Tutorial ")
 
 [![Alternate Text](https://i.ytimg.com/vi/RwV0SXtsW5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7SjE3iK3o5XbrLI-_3BBhyeTi3w)](https://www.youtube.com/watch?v=RwV0SXtsW5A "C# Create XML File/Document explanation/tutorial Youtube video  ")
 
