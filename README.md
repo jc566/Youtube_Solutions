@@ -28,7 +28,7 @@
 
 [![Alternate Text](https://i.ytimg.com/vi/xGI6_nCjKn0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4ve3zKKioLcSXcfk7GfcPdppoZA)](https://youtu.be/xGI6_nCjKn0 "Powershell Install Modules script")
 
-[![Alternate Text](https://i.ytimg.com/an_webp/k_yd4dc9NzA/mqdefault_6s.webp?du=3000&sqp=CIDmqowG&rs=AOn4CLCQGTMM9WGkc4rItXT6jcE6jHReWw)](https://youtu.be/k_yd4dc9NzA "Powershell Download Variable Groups from Azure DevOps")
+[![Alternate Text](https://i.ytimg.com/an_webp/k_yd4dc9NzA/mqdefault_6s.webp?du=3000&sqp=CMDyr4wG&rs=AOn4CLCG5jqPNkXWFPEjNw_nio4SJY0-fw)](https://youtu.be/k_yd4dc9NzA "Powershell Download Variable Groups from Azure DevOps")
 
 [![Alternate Text](https://i.ytimg.com/vi/0nk2NDYyQT8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFakMwVFAPnG5_STc7Fgr8z1F-wA)](https://youtu.be/0nk2NDYyQT8 "Powershell Change File/Folder security and permissions")
 
