@@ -28,11 +28,11 @@
 
 [![Alternate Text](https://i.ytimg.com/vi/xGI6_nCjKn0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4ve3zKKioLcSXcfk7GfcPdppoZA)](https://youtu.be/xGI6_nCjKn0 "Powershell Install Modules script")
 
-[![Alternate Text](https://i.ytimg.com/an_webp/k_yd4dc9NzA/mqdefault_6s.webp?du=3000&sqp=CMDyr4wG&rs=AOn4CLCG5jqPNkXWFPEjNw_nio4SJY0-fw)](https://youtu.be/k_yd4dc9NzA "Powershell Download Variable Groups from Azure DevOps")
+[![Alternate Text](https://i9.ytimg.com/vi/k_yd4dc9NzA/mq2.jpg?sqp=CMjktIwG&rs=AOn4CLBy_Qk8N3QKOY0Suz7P7aBuU77mmA)](https://youtu.be/k_yd4dc9NzA "Powershell Download Variable Groups from Azure DevOps")
 
 [![Alternate Text](https://i.ytimg.com/vi/0nk2NDYyQT8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFakMwVFAPnG5_STc7Fgr8z1F-wA)](https://youtu.be/0nk2NDYyQT8 "Powershell Change File/Folder security and permissions")
 
-[![Alternate Text](https://i.ytimg.com/an_webp/-on5HRW8v1A/mqdefault_6s.webp?du=3000&sqp=CIDor4wG&rs=AOn4CLBDgy3Xexl5c3p_56dld-PyS8rm9g)](https://youtu.be/-on5HRW8v1A "Unity 2D Shooter Game Tutorial - Make your first Unity Game! ")
+[![Alternate Text](https://i9.ytimg.com/vi_webp/-on5HRW8v1A/mqdefault.webp?v=5a65264d&sqp=CMjktIwG&rs=AOn4CLCOlmgIQ3ir8-p0_aBzzLtZqViA3g)](https://youtu.be/-on5HRW8v1A "Unity 2D Shooter Game Tutorial - Make your first Unity Game! ")
 
 [![Alternate Text](https://i.ytimg.com/vi/km-04aUJy4o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2LmdujYs1czZ72Rj9oOgxWI9aFA)](https://youtu.be/km-04aUJy4o "Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement")
 
