@@ -1,7 +1,6 @@
-New-AzResourceGroupDeployment -name "[YOUR UNIQUE DEPLOYMENT NAME]" -ResourceGroupName "[YOUR RESOURCE GROUP]" -TemplateFile "[YOUR TEMPLATE FILE PATH]" -storagePrefix "[INSERT YOUR UNIQUE STORAGE PREFIX]" 
+New-AzResourceGroupDeployment -name "[YOUR UNIQUE DEPLOYMENT NAME]" -ResourceGroupName "[YOUR RESOURCE GROUP]" -TemplateFile "[YOUR TEMPLATE FILE PATH]" -storagePrefix "[INSERT YOUR UNIQUE STORAGE PREFIX]" -webAppName "[YOUR WEP APP NAME]"
 
 
-New-AzResourceGroupDeployment -name "AddedOutputs" -ResourceGroupName "TestRG2021YT" -TemplateFile "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Azure ARM\ARM Templates Intro Tutorial\1-Introduction\Powershell\DeploymentRG.json" -storagePrefix "codedoge"
-
+New-AzResourceGroupDeployment -name "AddedQuickStartTemplate" -ResourceGroupName "TestRG2021YT" -TemplateFile "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Azure ARM\ARM Templates Intro Tutorial\1-Introduction\Powershell\DeploymentRG.json" -storagePrefix "codedoge" -webAppName "testAppDemo" 
 
 
