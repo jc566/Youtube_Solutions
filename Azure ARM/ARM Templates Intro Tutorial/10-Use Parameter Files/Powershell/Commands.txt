@@ -11,3 +11,5 @@ New-AzResourceGroupDeployment -name "AddedParameters-DevDeploy" -ResourceGroupNa
 New-AzResourceGroup -Name [NAME OF RESOURCE GROUP] -Location [YOUR LOCATION]
 
 New-AzResourceGroupDeployment -name "[YOUR UNIQUE DEPLOYMENT NAME]" -ResourceGroupName "[YOUR RESOURCE GROUP]" -TemplateFile "[YOUR TEMPLATE FILE PATH]" -TemplateParameterFile "[PATH TO YOUR PARAMETER FILE]"
+
+New-AzResourceGroupDeployment -name "AddedParameters_ProdDeploy" -ResourceGroupName "ProdResourceGroupYT2021" -TemplateFile "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Azure ARM\ARM Templates Intro Tutorial\1-Introduction\Powershell\DeploymentRG.json" -TemplateParameterFile "C:\Users\Joe\Documents\youtube_repo\Youtube_Solutions\Azure ARM\ARM Templates Intro Tutorial\10-Use Parameter Files\Powershell\DeploymentRG.parameters.prod.json"
