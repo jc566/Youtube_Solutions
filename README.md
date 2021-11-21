@@ -34,7 +34,7 @@
 
 [![Alternate Text](https://i9.ytimg.com/vi_webp/-on5HRW8v1A/mqdefault.webp?v=5a65264d&sqp=CMjktIwG&rs=AOn4CLCOlmgIQ3ir8-p0_aBzzLtZqViA3g)](https://youtu.be/-on5HRW8v1A "Unity 2D Shooter Game Tutorial - Make your first Unity Game! ")
 
-[![Alternate Text](https://i.ytimg.com/vi/km-04aUJy4o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2LmdujYs1czZ72Rj9oOgxWI9aFA)](https://youtu.be/km-04aUJy4o "Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement")
+[![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CITh6YwG&rs=AOn4CLByE2ATus3mCEEdaQIZshgug0r8sw)](https://youtu.be/km-04aUJy4o "Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement")
 
 
 
