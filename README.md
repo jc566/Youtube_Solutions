@@ -45,5 +45,5 @@
 
 [![Alternate Text](https://i.ytimg.com/vi/ai6lRft6nus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJODn4coia8Fibiedke0rpw9oJg)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CMjktIwG&rs=AOn4CLCLU3lF5XzIWLdAEdDopu7ip797nQ)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
+[![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CITh6YwG&rs=AOn4CLByE2ATus3mCEEdaQIZshgug0r8sw)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
 
