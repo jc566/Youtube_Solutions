@@ -41,7 +41,7 @@
 
 # ProgrammingHumor 
 
-[![Alternate Text](https://i9.ytimg.com/vi/GGabKvaihm0/mqdefault.jpg?v=6120fab3&sqp=CMjktIwG&rs=AOn4CLB8uKS23DAkVUX26umr8laN4FmsvQ)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
+[![Alternate Text](https://i9.ytimg.com/vi/GGabKvaihm0/mqdefault.jpg?v=6120fab3&sqp=CITh6YwG&rs=AOn4CLAnl-R_pcAu4U1dqA7qW-l8Xr2xuw)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
 
 [![Alternate Text](https://i.ytimg.com/vi/ai6lRft6nus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJODn4coia8Fibiedke0rpw9oJg)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
 
