@@ -1,0 +1,116 @@
+Please follow me on Twitter to get more updates on memes, tech news, devops/developer content! 
+https://twitter.com/CodeDoge4
+
+Video Links :
+
+Pre-requisites and IaC video -
+Introduction to ARM Templates video - 
+
+Github Links :
+
+1-Introduction = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/1-Introduction/Powershell
+2-Add Resource = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/2-Add%20Resource/Powershell
+3-Add Parameters = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/3-Add%20Parameters/Powershell
+4-Add Functions = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/4-Add%20Functions/Powershell
+5-Add Variables = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/5-Add%20Variables/Powershell
+6-Add Outputs = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/6-Add%20Outputs/Powershell
+7-Adding Resources from Exported Template = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/7-Adding%20Resources%20from%20Exported%20Template
+8-Add Resources using Quickstart Templates = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/8-Add%20Resources%20using%20Quickstart%20Templates/Powershell
+9-Add Tags = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/9-Add%20Tags/Powershell
+10-Use Parameter Files = https://github.com/jc566/Youtube_Solutions/tree/master/Azure%20ARM/ARM%20Templates%20Intro%20Tutorial/10-Use%20Parameter%20Files/Powershell
+
+Important Times :
+
+00:00 - Intro
+00:33 - Pre-requisites
+02:08 - Create initial Template (start of IaC)
+03:43 - Sign into Azure
+05:20 - Switch Subscription context as required & explain siginificance of multiple subscriptions
+07:16 - Create new Resource Group via Powershell
+08:28 - Explanation of AZ Regions
+09:03 - Building and Running command to create Resource Group
+10:17 - Confirm in Azure Portal of RG creation
+10:43 - Where to find deployment history
+11:07 - Explanation of deploying template and its command
+11:47 - Creation of command to deploy ARM template
+13:46 - Resolve character length and lowercase only issue for naming schema
+14:51 - Confirming deployment in Azure Portal
+16:12 - Explanation of adding ARM resource to Template
+16:49 - Overview of Azure ARM Extension in Visual Code
+17:29 - [2-Add Resource] Github link to code for adding Storage Account resource 
+17:51 - Typing/info on what to add to template, can skip to next part if you copy and paste from github and dont need an explanation
+19:58 - Quick overview of Storage Account SKU
+20:16 - 4 Basic properties of a resource
+20:36 - Building Azure Powershell command to redeploy new Storage account in template
+21:24 - Running the powershell command to deploy and fixing issues such as lowercase or min or max character length
+22:20 - Fixing issue about lowercase for storage account name
+22:46 - Validating successful deployment & inspecting storage account
+23:33 - [3-Add Parameters] Explanation of adding parameters to ARM Template
+24:42 - Github link for adding parameters to ARM Template
+25:07 - Typing/info on what to add to template for parameters, skip to next part if you already copy and paste from github and dont need any explanations
+27:42 - Building the powershell command to run deployment of ARM template with parameters
+29:20 - Running deployment command & fixing issues with command
+30:23 - Validating successful deployment of ARM Template with parameters
+30:49 - Explanation of using DEFAULT VALUES for parameters
+32:16 - Preface changes about to be made for using default values for ARM templates
+32:58 - Adding default values for SKU types in parameters
+35:59 - Deploying template using default value for a parameter
+37:04 - Validating successful deployment for using default value with ARM Template
+38:15 - Deploying template using a SKU value from the approved list but not the default
+38:56 - Verifying deployment of non default value parameter
+39:37 - Using a invalid parameter value to see what happens
+40:40 - How to delete Azure resources and clean up Resource Group
+41:30 - How to check Activity Log in Azure
+42:45 - [4-Add Functions] Preface what to expect on adding functions to ARM Template
+43:16 - Github link for adding functions to ARM Template
+43:45 - Updating template to add functions including typing and info. Skip to next part if you copy and paste from github and dont need any additional info dump
+44:52 - Building deployment command for using functions in ARM Template
+46:46 - Verify successful deployment of using functions with an ARM Template
+47:17 - [5-Add Variables] Preface changes we are going to make to use variables in ARM Template & Github link
+48:06 - Updaing template to use Variables in ARM, can skip to next part if you already copied and pasted from github and dont need any extra info
+50:20 - Building powershell deployment command for using variables in ARM Template
+51:18 - Validate successful ARM template deployment using variables
+51:47 - [6-Add Outputs] Preface what changes to make to print outputs in deployments for ARM template
+52:12 - Github and changes for deployment outputs
+52:33 - Updating template to add deployment output messages, skip to next part if you copied from Github and dont need any extra info
+54:02 - Building powershell deployment command for adding deployment output messages
+54:40 - Running deployment command to see ARM template outputs IE see Azure storage account endpoints
+56:24 - Showing where to find Azure Storage Account endpoints in Azure Portal
+57:00 - Intro to manual resource creation & why we use Infrastructure as Code to deploy and create resources
+57:57 - Manually creating Azure App Service Plan ASP
+59:47 - How to export a template for an existing resource
+01:00:38 - How to download a ARM template for an existing resource
+01:00:46 - [7-Adding Resources from Exported Template]Github link + what we expect to change by using a exported template to deploy
+01:01:26 - Updating template, can skip if you copied and pasted from Github and dont need additional explanations
+01:03:23 - Building powershell command to deploy ARM template with exported templates
+01:03:48 - Getting deployment failure because of using Azure Free Tier & how to resolve issue
+01:05:22 - Running deployment command
+01:06:00 - Verifying successful ARM template deployment when using exported templates
+01:06:59 - [8-Add Resources using Quickstart Templates]What are Quickstart templates and how to use them
+01:07:28 - Finding a linux app service to deploy in Quickstart Templates
+01:08:13 - How to deploy Quickstart template in Azure
+01:08:25 - Github link and what changes we need to make to use Quickstart Templates
+01:08:59 - Updating the template to use Quickstart templates, skip to next part if copying from Github and dont need any additional explanations
+01:13:35 - Building powershell deployment command for Quickstart templates
+01:14:33 - Running command but failed due to Free Tier restriction
+01:15:31 - Explaining the deployment issue and how to resolve it
+01:17:03 - Updating template to solve location issue
+01:18:00 - Rerunning command with resolved template
+01:18:41 - Validating successful deployment in Azure Portal after fixing ASP issues
+01:19:41 - [9-Add Tags]Explanation of using Tags
+01:20:56 - Github link and changes to be made for adding tags
+01:21:28 - Updating template, skip to next part if copied and paste from Github
+01:23:54 - Building command to deploy ARM Template with tags
+01:24:35 - Verifying successful deployment of ARM Template including tags
+01:25:23 - [10-Use Parameter Files]Github link and what to expect in order to use Parameter files for ARM Template deployment
+01:25:50 - Overview of Dev Environment parameter file
+01:26:50 - Building command and running deployment for Dev Environment Parameter file
+01:29:13 - Verifying successful parameter template deployment for Dev + showing dev tags
+01:29:46 - Overview of Prod Environment parameter file 
+01:30:28 - Creating new resource group with Powershell commands for Production Environment
+01:32:17 - Building command and running deployment for Prod Environment Parameter file
+01:33:12 - Verifying succuessful parameter tempalte deployment for Prod + showing prod tags
+01:33:31 - What to expect for future ARM templates and thank you for watching!
+
+
+
