@@ -1,0 +1,11 @@
+{
+  "DefaultTimeInterval": 10,
+  "TransparencyFilterColor": "limegreen",
+  "MainFontColor": "Black",
+  "MainWidth" : 600,
+  "MainHeight": 600,
+  "PanelFontColor": "Black",
+  "PanelBackgroundColor": "Aqua",
+  "PanelWidth": 220,
+  "PanelHeight": 250
+}
