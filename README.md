@@ -1,7 +1,7 @@
 # [ProgrammingHumor](https://www.youtube.com/playlist?list=PLVCxVHqf-EbJvV4Ys_cs_ixdeWu1QJrzS "Crunch Time")
 
 Crunch Time\
-[![Alternate Text](.attachments/ytmd/crunchtimememe.png)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
+[![Alternate Text](.attachments/ytmd/crunchtimememe.png) width="400" height="400](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
 
 Testing\
 [![Alternate Text](.attachments/ytmd/testingmeme.png)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
