@@ -19,8 +19,10 @@ StackOverflow \
 [![Alternate Text](https://i9.ytimg.com/vi_webp/f-SlUX3PGas/mq1.webp?sqp=CICXjJ8G&rs=AOn4CLCFqfZhsknEmVf7seB0ET-sFbbqaQ)](https://www.youtube.com/watch?v=f-SlUX3PGas "StackOverflow")
 
 Code Check-in\
-[![Alternate Text](https://i9.ytimg.com/vi_webp/64pebYeDDOI/mqdefault.webp?v=6037b5b2&sqp=CNSUjJ8G&rs=AOn4CLCcxPlCZNS_5_nTvXPefKHAGBEsIg)](https://www.youtube.com/watch?v=64pebYeDDOI "Code Check-in")
+[![Alternate Text](https://i9.ytimg.com/vi_webp/64pebYeDDOI/mqdefault.webp?v=6037b5b2&sqp=CNSUjJ8G&rs=AOn4CLCcxPlCZNS_5_nTvXPefKHAGBEsIg)](https://www.youtube.com/watch?v=BbyVmVBcKPY "Code Check-in")
 
+Detective Ops\
+[![Alternate Text](https://i9.ytimg.com/vi_webp/BbyVmVBcKPY/mq3.webp?sqp=CICXjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFwgXChcMA8=&rs=AOn4CLC2m3sp9z5_bHKYeuj7QSCGPScmjA)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Detective Ops")
 
 # Youtube Solutions Video Links
 
