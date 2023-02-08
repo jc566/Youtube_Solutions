@@ -1,4 +1,4 @@
-# [![ProgrammingHumor]](https://www.youtube.com/playlist?list=PLVCxVHqf-EbJvV4Ys_cs_ixdeWu1QJrzS "Crunch Time")
+# [ProgrammingHumor](https://www.youtube.com/playlist?list=PLVCxVHqf-EbJvV4Ys_cs_ixdeWu1QJrzS "Crunch Time")
 
 Crunch Time\
 [![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CKiSjJ8G&rs=AOn4CLAMaIrehqvD_McSsYnnnvVkDPv9yQ)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
