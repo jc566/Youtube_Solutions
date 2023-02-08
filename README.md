@@ -1,31 +1,31 @@
 # [ProgrammingHumor](https://www.youtube.com/playlist?list=PLVCxVHqf-EbJvV4Ys_cs_ixdeWu1QJrzS "Crunch Time")
 
 Crunch Time\
-[![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CKiSjJ8G&rs=AOn4CLAMaIrehqvD_McSsYnnnvVkDPv9yQ)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
+[![Alternate Text](.attachments/ytmd/crunchtimememe.png)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
 
 Testing\
-[![Alternate Text](https://i.ytimg.com/vi/ai6lRft6nus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJODn4coia8Fibiedke0rpw9oJg)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
+[![Alternate Text](.attachments/ytmd/testingmeme.png)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
 
 Code Cleanup\
 [![Code Cleanup](.attachments/ytmd/codecleanupmeme.png)](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
 
 Judgement\
-[![Alternate Text](https://i9.ytimg.com/vi_webp/-gSxbADXbAs/mq1.webp?sqp=CNSUjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEUgUihlMA8=&rs=AOn4CLAA7cYbidIxahacRXoNNyPYjF2Smg)](https://www.youtube.com/watch?v=-gSxbADXbAs "Testing")
+[![Alternate Text](.attachments/ytmd/judgementmeme.png)](https://www.youtube.com/watch?v=-gSxbADXbAs "Testing")
 
 StackOverflow \
-[![Alternate Text](https://i9.ytimg.com/vi_webp/f-SlUX3PGas/mq1.webp?sqp=CICXjJ8G&rs=AOn4CLCFqfZhsknEmVf7seB0ET-sFbbqaQ)](https://www.youtube.com/watch?v=f-SlUX3PGas "StackOverflow")
+[![Alternate Text](.attachments/ytmd/stackoverflow.png)](https://www.youtube.com/watch?v=f-SlUX3PGas "StackOverflow")
 
 Code Check-in\
-[![Alternate Text](https://i9.ytimg.com/vi_webp/64pebYeDDOI/mqdefault.webp?v=6037b5b2&sqp=CNSUjJ8G&rs=AOn4CLCcxPlCZNS_5_nTvXPefKHAGBEsIg)](https://www.youtube.com/watch?v=BbyVmVBcKPY "Code Check-in")
+[![Alternate Text](.attachments/ytmd/codecheckinmeme.png)](https://www.youtube.com/watch?v=BbyVmVBcKPY "Code Check-in")
 
 Detective Ops\
-[![Alternate Text](https://i9.ytimg.com/vi_webp/BbyVmVBcKPY/mq3.webp?sqp=CICXjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFwgXChcMA8=&rs=AOn4CLC2m3sp9z5_bHKYeuj7QSCGPScmjA)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Detective Ops")
+[![Alternate Text](.attachments/ytmd/detectiveopsmeme.png)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Detective Ops")
 
 Hackathon\
-[![Alternate Text](https://i9.ytimg.com/vi/UbqVaSnJK94/mqdefault.jpg?v=60453655&sqp=CICXjJ8G&rs=AOn4CLDIGXb1irU6ATA8UwcqiHD6J4GDVQ)](https://www.youtube.com/watch?v=UbqVaSnJK94 "Hackathon")
+[![Alternate Text](.attachments/ytmd/hackathonmeme.png)](https://www.youtube.com/watch?v=UbqVaSnJK94 "Hackathon")
 
 The Unanswered Question\
-[![Alternate Text](https://i9.ytimg.com/vi/GGabKvaihm0/mqdefault.jpg?v=6120fab3&sqp=CKiSjJ8G&rs=AOn4CLCQK1Soi1qrSBgJS5C_b7y5RqmkqQ)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
+[![Alternate Text](.attachments/ytmd/unansweredquestionmeme.png)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
 
 # Youtube Solutions Video Links
 
