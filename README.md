@@ -41,9 +41,14 @@
 
 # ProgrammingHumor 
 
+[![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CKiSjJ8G&rs=AOn4CLAMaIrehqvD_McSsYnnnvVkDPv9yQ)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
+
 [![Alternate Text](https://i9.ytimg.com/vi/GGabKvaihm0/mqdefault.jpg?v=6120fab3&sqp=CKiSjJ8G&rs=AOn4CLCQK1Soi1qrSBgJS5C_b7y5RqmkqQ)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
 
 [![Alternate Text](https://i.ytimg.com/vi/ai6lRft6nus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJODn4coia8Fibiedke0rpw9oJg)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
 
-[![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CKiSjJ8G&rs=AOn4CLAMaIrehqvD_McSsYnnnvVkDPv9yQ)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
+[![Alternate Text](https://i9.ytimg.com/vi_webp/94VzwjOpwQM/mq1.webp?sqp=CKiSjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD20Nq5nZ470IwqERG6n-xaRx4Tcw)](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
+
+
+
 
