@@ -11,7 +11,7 @@ Code Cleanup\
 [<img src=".attachments/ytmd/codecleanupmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
 
 Judgement\
-[<img src="attachments/ytmd/judgementmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=-gSxbADXbAs "Judgement")
+[<img src=".attachments/ytmd/judgementmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=-gSxbADXbAs "Judgement")
 
 StackOverflow \
 [<img src=".attachments/ytmd/stackoverflow.png" width="300" height="200">](https://www.youtube.com/watch?v=f-SlUX3PGas "StackOverflow")
