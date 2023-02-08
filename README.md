@@ -7,7 +7,7 @@ Testing\
 [![Alternate Text](https://i.ytimg.com/vi/ai6lRft6nus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJODn4coia8Fibiedke0rpw9oJg)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
 
 Code Cleanup\
-[![Code Cleanup](.attachments\ytmd\codecleanupmeme.png)](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
+[![Code Cleanup](.attachments/ytmd/codecleanupmeme.png)](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
 
 Judgement\
 [![Alternate Text](https://i9.ytimg.com/vi_webp/-gSxbADXbAs/mq1.webp?sqp=CNSUjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEUgUihlMA8=&rs=AOn4CLAA7cYbidIxahacRXoNNyPYjF2Smg)](https://www.youtube.com/watch?v=-gSxbADXbAs "Testing")
