@@ -12,7 +12,7 @@
 
 [![Alternate Text](https://i.ytimg.com/vi/X99UAVB5gmg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEXuWeoGGb1-XYywKfMISKVP-BDQ)](https://youtu.be/X99UAVB5gmg "Azure DevOps Custom Tasks or Extensions - Unit testing with Mocha")
 
-[![C# LINQ Tutorial](https://i9.ytimg.com/vi/ndQbKgJritA/mqdefault.jpg?v=5f4674e2&sqp=CJTm-YwG&rs=AOn4CLDIQGAzDIONe3hCxj1px_R-8sTwnw)](https://www.youtube.com/watch?v=ndQbKgJritA&t "C# LINQ Tutorial ")
+[![C# LINQ Tutorial]([https://i9.ytimg.com/vi/ndQbKgJritA/mqdefault.jpg?v=5f4674e2&sqp=CJTm-YwG&rs=AOn4CLDIQGAzDIONe3hCxj1px_R-8sTwnw](https://i9.ytimg.com/vi/ndQbKgJritA/mqdefault.jpg?v=5f4674e2&sqp=CNCNjJ8G&rs=AOn4CLCoslb1ERZ4d5y0RpbHMoahZ_fzXw))(https://www.youtube.com/watch?v=ndQbKgJritA&t "C# LINQ Tutorial ")
 
 [![C# Create XML File/Document explanation/tutorial Youtube video](https://i.ytimg.com/vi/RwV0SXtsW5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7SjE3iK3o5XbrLI-_3BBhyeTi3w)](https://www.youtube.com/watch?v=RwV0SXtsW5A "C# Create XML File/Document explanation/tutorial Youtube video  ")
 
