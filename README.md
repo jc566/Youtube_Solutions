@@ -1,3 +1,22 @@
+# ProgrammingHumor 
+
+Crunch Time\
+[![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CKiSjJ8G&rs=AOn4CLAMaIrehqvD_McSsYnnnvVkDPv9yQ)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
+
+The Unanswered Question\
+[![Alternate Text](https://i9.ytimg.com/vi/GGabKvaihm0/mqdefault.jpg?v=6120fab3&sqp=CKiSjJ8G&rs=AOn4CLCQK1Soi1qrSBgJS5C_b7y5RqmkqQ)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
+
+Testing\
+[![Alternate Text](https://i.ytimg.com/vi/ai6lRft6nus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJODn4coia8Fibiedke0rpw9oJg)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
+
+Code Cleanup\
+[![Alternate Text](https://i9.ytimg.com/vi_webp/94VzwjOpwQM/mq1.webp?sqp=CKiSjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD20Nq5nZ470IwqERG6n-xaRx4Tcw)](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
+
+
+Judgement\
+[![Alternate Text](https://i9.ytimg.com/vi_webp/-gSxbADXbAs/mq1.webp?sqp=CNSUjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEUgUihlMA8=&rs=AOn4CLAA7cYbidIxahacRXoNNyPYjF2Smg)](https://www.youtube.com/watch?v=-gSxbADXbAs "Testing")
+
+
 # Youtube Solutions Video Links
 
 Azure Devops Pipeline Output Variables\
@@ -55,21 +74,6 @@ Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics m
 [![Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement](https://i9.ytimg.com/vi_webp/km-04aUJy4o/mqdefault.webp?v=5bafc2aa&sqp=CKiSjJ8G&rs=AOn4CLDB9EoSK7bthAxKXqgjXT5SGPuj_w)](https://youtu.be/km-04aUJy4o "Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement")
 
 
-
-
-# ProgrammingHumor 
-
-Crunch Time\
-[![Alternate Text](https://i9.ytimg.com/vi_webp/6ax20_bwz1Q/mqdefault.webp?v=60207dbd&sqp=CKiSjJ8G&rs=AOn4CLAMaIrehqvD_McSsYnnnvVkDPv9yQ)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
-
-The Unanswered Question\
-[![Alternate Text](https://i9.ytimg.com/vi/GGabKvaihm0/mqdefault.jpg?v=6120fab3&sqp=CKiSjJ8G&rs=AOn4CLCQK1Soi1qrSBgJS5C_b7y5RqmkqQ)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
-
-Testing\
-[![Alternate Text](https://i.ytimg.com/vi/ai6lRft6nus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJODn4coia8Fibiedke0rpw9oJg)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
-
-Code Cleanup\
-[![Alternate Text](https://i9.ytimg.com/vi_webp/94VzwjOpwQM/mq1.webp?sqp=CKiSjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD20Nq5nZ470IwqERG6n-xaRx4Tcw)](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
 
 
 
