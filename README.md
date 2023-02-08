@@ -12,9 +12,14 @@ Testing\
 Code Cleanup\
 [![Alternate Text](https://i9.ytimg.com/vi_webp/94VzwjOpwQM/mq1.webp?sqp=CKiSjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD20Nq5nZ470IwqERG6n-xaRx4Tcw)](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
 
-
 Judgement\
 [![Alternate Text](https://i9.ytimg.com/vi_webp/-gSxbADXbAs/mq1.webp?sqp=CNSUjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEUgUihlMA8=&rs=AOn4CLAA7cYbidIxahacRXoNNyPYjF2Smg)](https://www.youtube.com/watch?v=-gSxbADXbAs "Testing")
+
+StackOverflow \
+[![Alternate Text](https://i9.ytimg.com/vi_webp/f-SlUX3PGas/mq1.webp?sqp=CICXjJ8G&rs=AOn4CLCFqfZhsknEmVf7seB0ET-sFbbqaQ)](https://www.youtube.com/watch?v=f-SlUX3PGas "StackOverflow")
+
+Code Check-in\
+[![Alternate Text](https://i9.ytimg.com/vi_webp/64pebYeDDOI/mqdefault.webp?v=6037b5b2&sqp=CNSUjJ8G&rs=AOn4CLCcxPlCZNS_5_nTvXPefKHAGBEsIg)](https://www.youtube.com/watch?v=64pebYeDDOI "Code Check-in")
 
 
 # Youtube Solutions Video Links
