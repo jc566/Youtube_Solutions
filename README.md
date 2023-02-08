@@ -54,6 +54,9 @@ C# Extension Methods Explanation & 70-483 Exam prep question\
 C# XML Serialization/Deserialization & 70-483 Exam Prep C#\
 [![C# XML Serialization/Deserialization & 70-483 Exam Prep C#](https://i9.ytimg.com/vi_webp/2CCwy121V6Q/mqdefault.webp?v=5a471171&sqp=CPyPjJ8G&rs=AOn4CLDvMeco-4L41ZWBpnfBU3VpRPArog)](https://youtu.be/2CCwy121V6Q "C# XML Serialization/Deserialization & 70-483 Exam Prep C#")
 
+Introduction to Azure ARM Templates | Powershell\
+[![Powershell Apply Retention Policies](https://i9.ytimg.com/vi_webp/J-PdLSDqAlQ/mq2.webp?sqp=CICXjJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCMgZChlMA8=&rs=AOn4CLATPUbTmw8EBeeiW1Ecupz8N6JgZg)](https://www.youtube.com/watch?v=J-PdLSDqAlQ "Introduction to Azure ARM Templates Powershell")
+
 Powershell Apply Retention Policies\
 [![Powershell Apply Retention Policies](https://i.ytimg.com/vi/bGI-uidHfxA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMoPAYJbbCqpM0aCKBtI3y20Bsng)](https://youtu.be/bGI-uidHfxA "Powershell Apply Retention Policies")
 
