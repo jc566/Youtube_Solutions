@@ -1,31 +1,32 @@
 # [ProgrammingHumor](https://www.youtube.com/playlist?list=PLVCxVHqf-EbJvV4Ys_cs_ixdeWu1QJrzS "Crunch Time")
 
 Crunch Time\
-[![Alternate Text](.attachments/ytmd/crunchtimememe.png) width="400" height="400](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
+[<img src=".attachments/ytmd/crunchtimememe.png" width="300" height="200">](https://www.youtube.com/watch?v=6ax20_bwz1Q "Crunch Time")
+
 
 Testing\
-[![Alternate Text](.attachments/ytmd/testingmeme.png)](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
+[<img src=".attachments/ytmd/testingmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=ai6lRft6nus "Testing")
 
 Code Cleanup\
-[![Code Cleanup](.attachments/ytmd/codecleanupmeme.png)](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
+[<img src=".attachments/ytmd/codecleanupmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=94VzwjOpwQM "Code Cleanup")
 
 Judgement\
-[![Alternate Text](.attachments/ytmd/judgementmeme.png)](https://www.youtube.com/watch?v=-gSxbADXbAs "Testing")
+[<img src="attachments/ytmd/judgementmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=-gSxbADXbAs "Judgement")
 
 StackOverflow \
-[![Alternate Text](.attachments/ytmd/stackoverflow.png)](https://www.youtube.com/watch?v=f-SlUX3PGas "StackOverflow")
+[<img src=".attachments/ytmd/stackoverflow.png" width="300" height="200">](https://www.youtube.com/watch?v=f-SlUX3PGas "StackOverflow")
 
 Code Check-in\
-[![Alternate Text](.attachments/ytmd/codecheckinmeme.png)](https://www.youtube.com/watch?v=BbyVmVBcKPY "Code Check-in")
+[<img src=".attachments/ytmd/codecheckinmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=BbyVmVBcKPY "Code Check-in")
 
 Detective Ops\
-[![Alternate Text](.attachments/ytmd/detectiveopsmeme.png)](https://www.youtube.com/watch?v=6ax20_bwz1Q "Detective Ops")
+[<img src=".attachments/ytmd/detectiveopsmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=6ax20_bwz1Q "Detective Ops")
 
 Hackathon\
-[![Alternate Text](.attachments/ytmd/hackathonmeme.png)](https://www.youtube.com/watch?v=UbqVaSnJK94 "Hackathon")
+[<img src=".attachments/ytmd/hackathonmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=UbqVaSnJK94 "Hackathon")
 
 The Unanswered Question\
-[![Alternate Text](.attachments/ytmd/unansweredquestionmeme.png)](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
+[<img src=".attachments/ytmd/unansweredquestionmeme.png" width="300" height="200">](https://www.youtube.com/watch?v=GGabKvaihm0 "The Unanswered Question")
 
 # Youtube Solutions Video Links
 
