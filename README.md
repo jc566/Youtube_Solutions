@@ -22,5 +22,6 @@
 | [<img src=".attachments/ytmd/unity2dtutspaceshootergame1.png" width="250" height="150" title="Unity 2D Shooter Game Tutorial - Make your first Unity Game!">](https://youtu.be/-on5HRW8v1A "Unity 2D Shooter Game Tutorial - Make your first Unity Game! ") |  |
 | [<img src=".attachments/ytmd/unity2dtut9dirmovement.png" width="250" height="150" title="Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement">](https://youtu.be/km-04aUJy4o "Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement") |  |
 | [<img src=".attachments/ytmd/ARM Templates Nested Templates.png" width="250" height="150" title="Using Nested Templates - ARM Templates">](https://youtu.be/A8Hd9dSuVWg "Using Nested Templates - ARM Templates") | |
+| [<img src=".attachments/ytmd/install azure devops agent.png" width="250" height="150" title="Install Azure Devops Self-Hosted Agent & Agent Pool">](https://youtu.be/NubY1YIT2nY "Install Azure Devops Self-Hosted Agent & Agent Pool") | |
 | | |
 
