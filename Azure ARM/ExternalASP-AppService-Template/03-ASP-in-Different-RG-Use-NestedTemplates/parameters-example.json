@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_name": {
-            "value": "test2023-02"
+            "value": "test2023-03"
         },
         "ASP_Name": {
             "value": "ASP-somethingh-03"
