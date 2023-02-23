@@ -1,0 +1,7 @@
+
+#Run template/parameter
+az deployment group create --name "<<YOUR DEPLOYMENT NAME>>" --resource-group "<<YOUR RESOURCE GROUP>>" --template-file "template.json" --parameters '@parameters.json'
+
+
+#Run example template/parameter
+az deployment group create --name "CODEDOGEYT" --resource-group "somethingh" --template-file "template.json" --parameters '@parameters-example.json'
