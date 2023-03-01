@@ -1,0 +1,3 @@
+terraform plan –out={{YOUR BIN OUTPUT FILE}}
+terraform show –no-color {{YOUR BIN OUTPUT FILE}} > {{YOUR HUMAN READABLE OUTPUT FILE NAME}}.txt
+terraform apply {{YOUR BIN OUTPUT FILE}}

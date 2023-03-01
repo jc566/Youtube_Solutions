@@ -1,0 +1,1 @@
+terraform plan -no-color > {{YOUR HUMAN READABLE OUTPUT FILE NAME}}.txt
