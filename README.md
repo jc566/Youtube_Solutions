@@ -23,5 +23,6 @@
 | [<img src=".attachments/ytmd/unity2dtut9dirmovement.png" width="250" height="150" title="Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement">](https://youtu.be/km-04aUJy4o "Unity 2D 8 Directional Movement Tutorial - Covers both physics and non-physics movement") |  |
 | [<img src=".attachments/ytmd/ARM Templates Nested Templates.png" width="250" height="150" title="Using Nested Templates - ARM Templates">](https://youtu.be/A8Hd9dSuVWg "Using Nested Templates - ARM Templates") | |
 | [<img src=".attachments/ytmd/install azure devops agent.png" width="250" height="150" title="Install Azure Devops Self-Hosted Agent & Agent Pool">](https://youtu.be/NubY1YIT2nY "Install Azure Devops Self-Hosted Agent & Agent Pool") | |
-| | [<img src=".attachments/ytmd/terraform plan save to output file.png" width="250" height="150" title="Save terraform plan into human readable output file">](https://youtu.be/8s9f2EPrL2s "Save terraform plan into human readable output file") | | | |
+| [<img src=".attachments/ytmd/terraform plan save to output file.png" width="250" height="150" title="Save terraform plan into human readable output file">](https://youtu.be/8s9f2EPrL2s "Save terraform plan into human readable output file") | |
+|  |  |
 
