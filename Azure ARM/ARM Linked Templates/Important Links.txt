@@ -1,0 +1,4 @@
+Nested/Linked ARM Templates = https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/linked-templates?tabs=azure-powershell
+
+Depends On Clause = https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/resource-dependency
+

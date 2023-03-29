@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "ASP_Name": {
+            "value": "ASP-codedogeyt-03"
+        },
+        "ChildTemplateURI": {
+            "value": "https://codedogearm.blob.core.windows.net/03-defaultmethod-with-params-inline/appservice-template.json"
+        },
+        "ChildTemplateRG": {
+            "value": "CodeDogeYTRG03"
+        },
+        "sites_name": {
+            "value": "CodeDogeYT-03"
+        }
+    }
+}
